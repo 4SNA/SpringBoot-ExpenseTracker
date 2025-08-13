@@ -27,5 +27,5 @@ It provides a RESTful API for creating, reading, updating, and deleting expenses
 
 ---
 
-## 📂 Project Structure
+
 
